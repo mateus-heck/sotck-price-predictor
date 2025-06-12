@@ -18,6 +18,7 @@ idna==3.10
 ipykernel==6.29.5
 ipython==8.37.0
 jedi==0.19.2
+pandas_datareader
 joblib==1.5.1
 jupyter_client==8.6.3
 jupyter_core==5.8.1
@@ -59,3 +60,4 @@ urllib3==2.4.0
 wcwidth==0.2.13
 websockets==15.0.1
 yfinance==0.2.62
+ta
